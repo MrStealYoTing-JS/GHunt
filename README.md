@@ -94,3 +94,5 @@ If you don't know how to open it, just right-click anywhere and click "Inspect E
 # Thanks
 This tool is based on [Sector's research on Google IDs](https://sector035.nl/articles/getting-a-grasp-on-google-ids) and completed by my own as well.\
 If I have the motivation to write a blog post about it, I'll add the link here!
+
+[![Run on Repl.it](https://repl.it/badge/github/josephsanthoshemprayil/GHunt)](https://repl.it/github/josephsanthoshemprayil/GHunt)
